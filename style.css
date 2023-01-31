@@ -5,3 +5,83 @@
     text-decoration: none;
     list-style: none;
 }
+
+/*------------------------------------MENU------------------------------------*/
+
+
+
+/*------------------------------------HEADER------------------------------------*/
+
+.d-block{
+    width: 100%;
+    height: 80vh;
+}
+
+/*------------------------------------MAIN------------------------------------*/
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    background-color: #665a50;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#anchor2{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    gap: 30px;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: lightslategrey;
+    color: white;
+}
+
+#anchor3{
+    background-color: black;
+    padding-top: 30px;
+}
+
+.titulo2{
+    display: flex;
+    justify-content: center;
+    background-color: #665a50;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    gap: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: lightslategrey;
+}
+
+.container4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    background-color: lightslategrey;
+}
+
+/*------------------------------------FOOTER------------------------------------*/
